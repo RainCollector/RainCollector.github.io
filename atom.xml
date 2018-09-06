@@ -18,8 +18,8 @@
   
   <entry>
     <title>my-first-blog</title>
-    <link href="https://raincollector.github.io/2018/08/23/my-first-blog/"/>
-    <id>https://raincollector.github.io/2018/08/23/my-first-blog/</id>
+    <link href="https://raincollector.github.io/my-first-blog/"/>
+    <id>https://raincollector.github.io/my-first-blog/</id>
     <published>2018-08-23T15:42:07.000Z</published>
     <updated>2018-08-23T15:42:07.284Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://raincollector.github.io/2018/08/23/hello-world/"/>
-    <id>https://raincollector.github.io/2018/08/23/hello-world/</id>
+    <link href="https://raincollector.github.io/hello-world/"/>
+    <id>https://raincollector.github.io/hello-world/</id>
     <published>2018-08-22T16:51:00.538Z</published>
     <updated>2018-08-22T16:51:00.539Z</updated>
     
