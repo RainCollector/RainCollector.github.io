@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://raincollector.github.io/"/>
-  <updated>2018-09-11T19:46:51.805Z</updated>
+  <updated>2018-09-19T10:30:44.463Z</updated>
   <id>https://raincollector.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>my-first-blog</title>
-    <link href="https://raincollector.github.io/my-first-blog/"/>
-    <id>https://raincollector.github.io/my-first-blog/</id>
+    <link href="https://raincollector.github.io/title/9903.html"/>
+    <id>https://raincollector.github.io/title/9903.html</id>
     <published>2018-08-23T15:42:07.000Z</published>
-    <updated>2018-09-11T19:46:51.805Z</updated>
+    <updated>2018-09-19T10:30:44.463Z</updated>
     
     <content type="html"><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><h1 id="真的猛士"><a href="#真的猛士" class="headerlink" title="真的猛士"></a>真的猛士</h1><h2 id="鲁迅"><a href="#鲁迅" class="headerlink" title="鲁迅"></a>鲁迅</h2><blockquote><p>真的猛士，敢于直面惨淡的人生，敢于正视淋漓的鲜血。这是怎样的哀痛者和幸福者？然而造化又常常为庸人设计，以时间的流驶，来洗涤旧迹，仅使留下淡红的血色和微漠的悲哀。在这淡红的血色和微漠的悲哀中，又给人暂得偷生，维持着这似人非人的世界。我不知道这样的世界何时是一个尽头！</p></blockquote><p>我们还在这样的世上活着；我也早觉得有写一点东西的必要了。离三月十八日也已有两星期，忘却的救主快要降临了罢，我正有写一点东西的必要了。</p><h2 id="样例"><a href="#样例" class="headerlink" title="样例"></a>样例</h2><ul><li>但段政府就有令，说她们是“暴徒”！</li><li>但接着就有流言，说她们是受人利用的。</li></ul><p><em>惨象，已使我目不忍视了；流言，尤使我耳不忍闻</em>。我还有什么话可说呢？我懂得衰亡民族之所以默无声息的缘由了。<strong>沉默呵，沉默呵！不在沉默中爆发，就在沉默中灭亡。</strong></p>]]></content>
     
@@ -43,10 +43,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://raincollector.github.io/hello-world/"/>
-    <id>https://raincollector.github.io/hello-world/</id>
+    <link href="https://raincollector.github.io/title/16107.html"/>
+    <id>https://raincollector.github.io/title/16107.html</id>
     <published>2018-08-22T16:51:00.538Z</published>
-    <updated>2018-08-22T16:51:00.539Z</updated>
+    <updated>2018-09-19T10:30:44.454Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     

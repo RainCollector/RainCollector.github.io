@@ -186,7 +186,7 @@ th {
 body {
   position: relative;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 2;
   color: #555;
   background: #fff;
@@ -203,7 +203,7 @@ body {
 }
 @media (min-width: 1600px) {
   body {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 h1,
@@ -285,7 +285,7 @@ a {
 }
 a:hover {
   color: #222;
-  border-bottom-color: #222;
+  border-bottom-color: #ff8c00;
 }
 blockquote {
   margin: 0;
@@ -321,7 +321,7 @@ dd {
   padding: 0;
 }
 kbd {
-  border: 1px solid #ccc;
+  border: 1px solid #ffd700;
   border-radius: 0.2em;
   box-shadow: 0.1em 0.1em 0.2em rgba(0,0,0,0.1);
   background-color: #f9f9f9;
@@ -687,14 +687,14 @@ pre .javascript .function {
 .page-post-detail .post-type-quote blockquote::before {
   top: -20px;
   background-image: url("../images/quote-l.svg");
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #ffd700;
 }
 .blockquote-center::after,
 .page-home .post-type-quote blockquote::after,
 .page-post-detail .post-type-quote blockquote::after {
   bottom: -20px;
   background-image: url("../images/quote-r.svg");
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #ffd700;
   background-position: 100% 8px;
 }
 .blockquote-center p,
@@ -1025,8 +1025,8 @@ pre .javascript .function {
 }
 .pagination .page-number.current {
   color: #fff;
-  background: #ccc;
-  border-top-color: #ccc;
+  background: #ffd700;
+  border-top-color: #ffd700;
 }
 @media (max-width: 767px) {
   .pagination {
@@ -1237,7 +1237,7 @@ pre .javascript .function {
 .post-body .figure .caption {
   margin: -20px auto 15px;
   text-align: center;
-  font-size: 14px;
+  font-size: 16px;
   color: #999;
   font-weight: bold;
   line-height: 1;
@@ -1304,7 +1304,7 @@ pre .javascript .function {
 .posts-expand .post-body h6 .header-anchor {
   float: right;
   margin-left: 10px;
-  color: #ccc;
+  color: #ffd700;
   border-bottom-style: none;
   visibility: hidden;
 }
@@ -1399,7 +1399,7 @@ pre .javascript .function {
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
   transition-property: border;
-  border-bottom: 1px dashed #ccc;
+  border-bottom: 1px dashed #ffd700;
 }
 .posts-collapse .post-header::before {
   content: " ";
@@ -1611,7 +1611,7 @@ pre .javascript .function {
   margin: 80px auto 60px;
   width: 8%;
   height: 1px;
-  background: #ccc;
+  background: #ffd700;
   text-align: center;
 }
 .post:last-child .post-eof.post-eof.post-eof {
@@ -1760,13 +1760,6 @@ pre .javascript .function {
     -o-transform: rotateZ(-30deg);
     transform: rotateZ(-30deg);
   }
-}
-.post-copyright {
-  margin: 2em 0 0;
-  padding: 0.5em 1em;
-  border-left: 3px solid #ff1700;
-  background-color: #f9f9f9;
-  list-style: none;
 }
 .rtl.post-body p,
 .rtl.post-body a,
@@ -2000,7 +1993,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff87ff;
+  background: #e371ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2088,8 +2081,8 @@ pre .javascript .function {
   border-bottom-color: #555;
 }
 .post-toc ol a:hover {
-  color: #ccc;
-  border-bottom-color: #ccc;
+  color: #ffd700;
+  border-bottom-color: #ffd700;
 }
 .post-toc .nav-item {
   overflow: hidden;
@@ -2533,6 +2526,13 @@ pre .javascript .function {
 .page-pv .busuanzi-value {
   margin: 0 5px;
 }
+.site-uv {
+  margin-right: 10px;
+}
+.site-uv::after {
+  content: "|";
+  padding-left: 10px;
+}
 .page-archive .archive-page-counter {
   position: relative;
   top: 3px;
@@ -2768,7 +2768,7 @@ p {
   margin: 0 0 25px 0;
 }
 a {
-  border-bottom-color: #ccc;
+  border-bottom-color: #ffd700;
 }
 hr {
   margin: 20px 0;
@@ -2966,7 +2966,7 @@ hr {
 }
 @media (max-width: 767px) {
   .posts-expand .post-body {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 .posts-expand .post-body img {
@@ -2981,7 +2981,7 @@ hr {
   border-bottom: none;
 }
 .posts-expand .post-tags a:hover {
-  background: #ccc;
+  background: #ffd700;
 }
 .posts-expand .post-nav {
   margin-top: 40px;
@@ -2992,7 +2992,7 @@ hr {
 }
 .post-button a {
   padding: 0;
-  font-size: 14px;
+  font-size: 16px;
   background: none;
   border: none;
   border-bottom: 2px solid #666;
@@ -3000,12 +3000,12 @@ hr {
 }
 @media (max-width: 767px) {
   .post-button a {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 @media (min-width: 1600px) {
   .post-button a {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 .post-button a:hover {
