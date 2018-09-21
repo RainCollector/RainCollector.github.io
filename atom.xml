@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://raincollector.github.io/"/>
-  <updated>2018-09-19T10:30:44.463Z</updated>
+  <updated>2018-09-21T19:07:40.370Z</updated>
   <id>https://raincollector.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>xxxx</title>
+    <link href="https://raincollector.github.io/title/6c156477.html"/>
+    <id>https://raincollector.github.io/title/6c156477.html</id>
+    <published>2018-09-21T09:20:00.000Z</published>
+    <updated>2018-09-21T19:07:40.370Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><h2 id="图床图片"><a href="#图床图片" class="headerlink" title="图床图片"></a>图床图片</h2><p><img src="https://i.loli.net/2018/09/07/5b924ccc5abd3.jpg" alt="喵"></p><h2 id="本地图片"><a href="#本地图片" class="headerlink" title="本地图片"></a>本地图片</h2><p><img src="/xxxx/IMGP9861.jpg" alt="长安"></p><a id="more"></a><p><img src="/img/favicon.jpg" alt="头像"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot; title=&quot;test&quot;&gt;&lt;/a&gt;test&lt;/h1&gt;&lt;h2 id=&quot;图床图片&quot;&gt;&lt;a href=&quot;#图床图片&quot; class=&quot;headerlink&quot; title=&quot;图床图片&quot;&gt;&lt;/a&gt;图床图片&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2018/09/07/5b924ccc5abd3.jpg&quot; alt=&quot;喵&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;本地图片&quot;&gt;&lt;a href=&quot;#本地图片&quot; class=&quot;headerlink&quot; title=&quot;本地图片&quot;&gt;&lt;/a&gt;本地图片&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/xxxx/IMGP9861.jpg&quot; alt=&quot;长安&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="喵" scheme="https://raincollector.github.io/categories/%E5%96%B5/"/>
+    
+    
+      <category term="测试" scheme="https://raincollector.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>my-first-blog</title>
