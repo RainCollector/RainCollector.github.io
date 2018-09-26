@@ -186,7 +186,7 @@ th {
 body {
   position: relative;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 30px;
+  font-size: 18px;
   line-height: 2;
   color: #555;
   background: #fff;
@@ -203,7 +203,7 @@ body {
 }
 @media (min-width: 1600px) {
   body {
-    font-size: 32px;
+    font-size: 20px;
   }
 }
 h1,
@@ -1201,7 +1201,7 @@ pre .javascript .function {
 }
 .menu .menu-item a {
   display: block;
-  font-size: 13px;
+  font-size: 15px;
   line-height: inherit;
   border-bottom: 1px solid transparent;
   transition-property: border-color;
@@ -1237,7 +1237,7 @@ pre .javascript .function {
 .post-body .figure .caption {
   margin: -20px auto 15px;
   text-align: center;
-  font-size: 30px;
+  font-size: 18px;
   color: #999;
   font-weight: bold;
   line-height: 1;
@@ -1912,6 +1912,17 @@ pre .javascript .function {
   max-width: 96px;
   height: auto;
   border: 2px solid #333;
+  border-radius: 60%;
+  -webkit-border-radius: 80px;
+  -moz-border-radius: 80px;
+  transition: 2.5s all;
+}
+.site-author-image:hover {
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -ms-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+  transform: rotate(360deg);
 }
 .site-author-name {
   margin: 5px 0 0;
@@ -1993,7 +2004,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #df26ff;
+  background: #ffffa6;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2966,7 +2977,7 @@ hr {
 }
 @media (max-width: 767px) {
   .posts-expand .post-body {
-    font-size: 28px;
+    font-size: 16px;
   }
 }
 .posts-expand .post-body img {
@@ -2992,7 +3003,7 @@ hr {
 }
 .post-button a {
   padding: 0;
-  font-size: 30px;
+  font-size: 18px;
   background: none;
   border: none;
   border-bottom: 2px solid #666;
@@ -3000,12 +3011,12 @@ hr {
 }
 @media (max-width: 767px) {
   .post-button a {
-    font-size: 28px;
+    font-size: 16px;
   }
 }
 @media (min-width: 1600px) {
   .post-button a {
-    font-size: 32px;
+    font-size: 20px;
   }
 }
 .post-button a:hover {
@@ -3080,7 +3091,7 @@ hr {
   margin-bottom: 10px;
   margin-left: -20px;
   margin-right: -20px;
-  padding: 25px;
+  padding: 20px;
   -webkit-box-shadow: 0 0 20px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 20px rgba(202,203,204,0.5);
 }
