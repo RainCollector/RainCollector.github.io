@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://raincollector.github.io/"/>
-  <updated>2018-09-22T14:05:03.083Z</updated>
+  <updated>2019-07-23T21:05:36.637Z</updated>
   <id>https://raincollector.github.io/</id>
   
   <author>
@@ -17,18 +17,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>个性化css插件测试</title>
+    <link href="https://raincollector.github.io/title/91c15fd9.html"/>
+    <id>https://raincollector.github.io/title/91c15fd9.html</id>
+    <published>2019-07-23T20:38:44.000Z</published>
+    <updated>2019-07-23T21:05:36.637Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><h1 id="mycss-styl中装入css零件效果测试"><a href="#mycss-styl中装入css零件效果测试" class="headerlink" title="mycss.styl中装入css零件效果测试"></a>mycss.styl中装入css零件效果测试</h1><p><strong>按钮</strong></p><blockquote></blockquote><p><a href="https://www.bestcssbuttongenerator.com/#/23" class="myButton" target="_blank" rel="noopener">按钮</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;mycss-styl中装入css零件效果测试&quot;&gt;&lt;a href=&quot;#mycss-styl中装入css零件效果测试&quot; class=&quot;headerlink&quot; title=&quot;mycss.styl中装入css零件效果测试&quot;&gt;&lt;/a&gt;my
+      
+    
+    </summary>
+    
+      <category term="test" scheme="https://raincollector.github.io/categories/test/"/>
+    
+    
+      <category term="css" scheme="https://raincollector.github.io/tags/css/"/>
+    
+  </entry>
+  
+  <entry>
     <title>测试图片插入及其他格式</title>
     <link href="https://raincollector.github.io/title/6c156477.html"/>
     <id>https://raincollector.github.io/title/6c156477.html</id>
     <published>2018-09-21T09:20:00.000Z</published>
-    <updated>2018-09-22T14:05:03.083Z</updated>
+    <updated>2019-07-23T21:21:55.717Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/img/IMGP9861.jpg" alt="长安"></p><p>《子夜吴歌·秋歌》</p><a id="more"></a><p>作者：李白</p><p>长安一片月，万户捣衣声。<br>秋风吹不尽，总是玉关情。<br>何日平胡虏，良人罢远征。</p><ul><li>①子夜吴歌：六朝乐府有《子夜歌》，因为主要在吴地流行，所以也称《子夜吴歌》，多是描写男女恋情的。</li></ul><ul><li>②捣衣：将洗的衣服放石砧上捶打。这里指人们准备寒衣。</li></ul><ul><li>③玉关：即玉门关。</li></ul><ul><li>④平胡虏：平定侵扰边塞的敌人。虏，对敌人的蔑称。良人：指丈夫。罢：结束。</li></ul><h2 id="本地图片"><a href="#本地图片" class="headerlink" title="本地图片"></a>本地图片</h2><p><img src="/img/IMGP9969.jpg" alt="1"><br><img src="/img/IMGP9541.jpg" alt="2"><br><img src="/img/IMGP1148.jpg" alt="3"><br><img src="/测试图片插入及其他格式/IMGP0225.jpg" alt="4"></p><h2 id="图床图片"><a href="#图床图片" class="headerlink" title="图床图片"></a>图床图片</h2><p><img src="https://i.loli.net/2018/09/07/5b924ccc5abd3.jpg" alt="喵"></p><h2 id="引文"><a href="#引文" class="headerlink" title="引文"></a>引文</h2><blockquote></blockquote><blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p></blockquote><h2 id="非引文"><a href="#非引文" class="headerlink" title="非引文"></a>非引文</h2><p>hexo 编译时会在 hexo 站点根目录生成 sitemap.xml 和 baidusitemap.xml<br>其中 sitemap.xml 适合提交给谷歌搜素引擎，baidusitemap.xml 适合提交百度搜索引擎。<br>其次，在 robots.txt 中添加下面的一段代码：</p><h2 id="引用代码"><a href="#引用代码" class="headerlink" title="引用代码"></a>引用代码</h2><p>1</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">(function()&#123;</span><br><span class="line">    if(&apos;&#123;&#123; page.password &#125;&#125;&apos;)&#123;</span><br><span class="line">        if (prompt(&apos;请输入文章密码&apos;) !== &apos;&#123;&#123; page.password &#125;&#125;&apos;)&#123;</span><br><span class="line">            alert(&apos;密码错误！&apos;);</span><br><span class="line">            history.back();</span><br><span class="line">        &#125; </span><br><span class="line">    &#125; </span><br><span class="line">&#125;)();</span><br></pre></td></tr></table></figure><p>2<br><code></code><br>2</p><p><code></code></p><p>2</p><figure class="highlight plain"><figcaption><span>if theme.yandex_site_verification %&#125;</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">  &lt;meta name=&quot;yandex-verification&quot; content=&quot;&#123;&#123; theme.yandex_site_verification &#125;&#125;&quot; /&gt;</span><br><span class="line">&#123;% endif %&#125;</span><br></pre></td></tr></table></figure><p>2<br><figure class="highlight django"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="xml"></span><span class="template-tag">&#123;% <span class="name"><span class="name">if</span></span> theme.baidu_site_verification %&#125;</span><span class="xml"></span></span><br><span class="line"><span class="xml">  <span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">"baidu-site-verification"</span> <span class="attr">content</span>=<span class="string">"</span></span></span><span class="template-variable">&#123;&#123; theme.baidu_site_verification &#125;&#125;</span><span class="xml"><span class="tag"><span class="string">"</span> /&gt;</span></span></span><br><span class="line"><span class="xml"></span><span class="template-tag">&#123;% <span class="name"><span class="name">endif</span></span> %&#125;</span><span class="xml"></span></span><br></pre></td></tr></table></figure></p><p>3</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>3</p><pre><code>&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot; /&gt;</code></pre><p>4</p><pre><code>&lt;meta charset=&quot;UTF-8&quot;/&gt;</code></pre>]]></content>
+    <content type="html"><![CDATA[<p>《子夜吴歌·秋歌》</p><a id="more"></a><p><img src="/img/IMGP9861.jpg" alt="长安"><br>作者：李白</p><p>长安一片月，万户捣衣声。<br>秋风吹不尽，总是玉关情。<br>何日平胡虏，良人罢远征。</p><ul><li>①子夜吴歌：六朝乐府有《子夜歌》，因为主要在吴地流行，所以也称《子夜吴歌》，多是描写男女恋情的。</li></ul><ul><li>②捣衣：将洗的衣服放石砧上捶打。这里指人们准备寒衣。</li></ul><ul><li>③玉关：即玉门关。</li></ul><ul><li>④平胡虏：平定侵扰边塞的敌人。虏，对敌人的蔑称。良人：指丈夫。罢：结束。</li></ul><h2 id="本地图片"><a href="#本地图片" class="headerlink" title="本地图片"></a>本地图片</h2><p><img src="/img/IMGP9969.jpg" alt="1"><br><img src="/img/IMGP9541.jpg" alt="2"><br><img src="/img/IMGP1148.jpg" alt="3"><br><img src="/测试图片插入及其他格式/IMGP0225.jpg" alt="4"></p><h2 id="图床图片"><a href="#图床图片" class="headerlink" title="图床图片"></a>图床图片</h2><p><img src="https://i.loli.net/2018/09/07/5b924ccc5abd3.jpg" alt="喵"></p><h2 id="引文"><a href="#引文" class="headerlink" title="引文"></a>引文</h2><blockquote></blockquote><blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p></blockquote><h2 id="非引文"><a href="#非引文" class="headerlink" title="非引文"></a>非引文</h2><p>hexo 编译时会在 hexo 站点根目录生成 sitemap.xml 和 baidusitemap.xml<br>其中 sitemap.xml 适合提交给谷歌搜素引擎，baidusitemap.xml 适合提交百度搜索引擎。<br>其次，在 robots.txt 中添加下面的一段代码：</p><h2 id="引用代码"><a href="#引用代码" class="headerlink" title="引用代码"></a>引用代码</h2><p>1</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">(function()&#123;</span><br><span class="line">    if(&apos;&#123;&#123; page.password &#125;&#125;&apos;)&#123;</span><br><span class="line">        if (prompt(&apos;请输入文章密码&apos;) !== &apos;&#123;&#123; page.password &#125;&#125;&apos;)&#123;</span><br><span class="line">            alert(&apos;密码错误！&apos;);</span><br><span class="line">            history.back();</span><br><span class="line">        &#125; </span><br><span class="line">    &#125; </span><br><span class="line">&#125;)();</span><br></pre></td></tr></table></figure><p>2<br><code></code><br>2</p><p><code></code></p><p>2</p><figure class="highlight plain"><figcaption><span>if theme.yandex_site_verification %&#125;</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">  &lt;meta name=&quot;yandex-verification&quot; content=&quot;&#123;&#123; theme.yandex_site_verification &#125;&#125;&quot; /&gt;</span><br><span class="line">&#123;% endif %&#125;</span><br></pre></td></tr></table></figure><p>2<br><figure class="highlight django"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="xml"></span><span class="template-tag">&#123;% <span class="name"><span class="name">if</span></span> theme.baidu_site_verification %&#125;</span><span class="xml"></span></span><br><span class="line"><span class="xml">  <span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">"baidu-site-verification"</span> <span class="attr">content</span>=<span class="string">"</span></span></span><span class="template-variable">&#123;&#123; theme.baidu_site_verification &#125;&#125;</span><span class="xml"><span class="tag"><span class="string">"</span> /&gt;</span></span></span><br><span class="line"><span class="xml"></span><span class="template-tag">&#123;% <span class="name"><span class="name">endif</span></span> %&#125;</span><span class="xml"></span></span><br></pre></td></tr></table></figure></p><p>3</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>3</p><pre><code>&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot; /&gt;</code></pre><p>4</p><pre><code>&lt;meta charset=&quot;UTF-8&quot;/&gt;</code></pre>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/img/IMGP9861.jpg&quot; alt=&quot;长安&quot;&gt;&lt;/p&gt;
-&lt;p&gt;《子夜吴歌·秋歌》&lt;/p&gt;
+      &lt;p&gt;《子夜吴歌·秋歌》&lt;/p&gt;
     
     </summary>
     
@@ -44,16 +69,13 @@
     <link href="https://raincollector.github.io/title/9903.html"/>
     <id>https://raincollector.github.io/title/9903.html</id>
     <published>2018-08-23T15:42:07.000Z</published>
-    <updated>2018-09-19T10:30:44.463Z</updated>
+    <updated>2019-07-23T21:21:49.918Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><h1 id="真的猛士"><a href="#真的猛士" class="headerlink" title="真的猛士"></a>真的猛士</h1><h2 id="鲁迅"><a href="#鲁迅" class="headerlink" title="鲁迅"></a>鲁迅</h2><blockquote><p>真的猛士，敢于直面惨淡的人生，敢于正视淋漓的鲜血。这是怎样的哀痛者和幸福者？然而造化又常常为庸人设计，以时间的流驶，来洗涤旧迹，仅使留下淡红的血色和微漠的悲哀。在这淡红的血色和微漠的悲哀中，又给人暂得偷生，维持着这似人非人的世界。我不知道这样的世界何时是一个尽头！</p></blockquote><p>我们还在这样的世上活着；我也早觉得有写一点东西的必要了。离三月十八日也已有两星期，忘却的救主快要降临了罢，我正有写一点东西的必要了。</p><h2 id="样例"><a href="#样例" class="headerlink" title="样例"></a>样例</h2><ul><li>但段政府就有令，说她们是“暴徒”！</li><li>但接着就有流言，说她们是受人利用的。</li></ul><p><em>惨象，已使我目不忍视了；流言，尤使我耳不忍闻</em>。我还有什么话可说呢？我懂得衰亡民族之所以默无声息的缘由了。<strong>沉默呵，沉默呵！不在沉默中爆发，就在沉默中灭亡。</strong></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="真的猛士"><a href="#真的猛士" class="headerlink" title="真的猛士"></a>真的猛士</h1><a id="more"></a><h2 id="鲁迅"><a href="#鲁迅" class="headerlink" title="鲁迅"></a>鲁迅</h2><blockquote><p>真的猛士，敢于直面惨淡的人生，敢于正视淋漓的鲜血。这是怎样的哀痛者和幸福者？然而造化又常常为庸人设计，以时间的流驶，来洗涤旧迹，仅使留下淡红的血色和微漠的悲哀。在这淡红的血色和微漠的悲哀中，又给人暂得偷生，维持着这似人非人的世界。我不知道这样的世界何时是一个尽头！</p></blockquote><p>我们还在这样的世上活着；我也早觉得有写一点东西的必要了。离三月十八日也已有两星期，忘却的救主快要降临了罢，我正有写一点东西的必要了。</p><h2 id="样例"><a href="#样例" class="headerlink" title="样例"></a>样例</h2><ul><li>但段政府就有令，说她们是“暴徒”！</li><li>但接着就有流言，说她们是受人利用的。</li></ul><p><em>惨象，已使我目不忍视了；流言，尤使我耳不忍闻</em>。我还有什么话可说呢？我懂得衰亡民族之所以默无声息的缘由了。<strong>沉默呵，沉默呵！不在沉默中爆发，就在沉默中灭亡。</strong></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h1 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot; title=&quot;test&quot;&gt;&lt;/a&gt;test&lt;/h1&gt;&lt;h1 id=&quot;真的猛士&quot;&gt;&lt;a href=&quot;#真的猛士&quot; class=&quot;headerlink&quot; title=&quot;真的猛士&quot;&gt;&lt;/a
-      
+      &lt;h1 id=&quot;真的猛士&quot;&gt;&lt;a href=&quot;#真的猛士&quot; class=&quot;headerlink&quot; title=&quot;真的猛士&quot;&gt;&lt;/a&gt;真的猛士&lt;/h1&gt;
     
     </summary>
     
@@ -69,16 +91,13 @@
     <link href="https://raincollector.github.io/title/16107.html"/>
     <id>https://raincollector.github.io/title/16107.html</id>
     <published>2018-08-22T16:51:00.538Z</published>
-    <updated>2018-09-19T10:30:44.454Z</updated>
+    <updated>2019-07-23T21:22:23.785Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! </p><a id="more"></a><p>This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! &lt;/p&gt;
     
     </summary>
     

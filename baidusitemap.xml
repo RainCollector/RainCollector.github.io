@@ -4,8 +4,23 @@
 
     
   <url>
+    <loc>https://raincollector.github.io/title/16107.html</loc>
+    <lastmod>2019-07-23T21:22:23.785Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-08-22T16:51:00.538Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://raincollector.github.io/title/6c156477.html</loc>
-    <lastmod>2018-09-22T14:05:03.083Z</lastmod>
+    <lastmod>2019-07-23T21:21:55.717Z</lastmod>
     <data>
         <display>
         <title>测试图片插入及其他格式</title>
@@ -25,7 +40,7 @@
     
   <url>
     <loc>https://raincollector.github.io/title/9903.html</loc>
-    <lastmod>2018-09-19T10:30:44.463Z</lastmod>
+    <lastmod>2019-07-23T21:21:49.918Z</lastmod>
     <data>
         <display>
         <title>my-first-blog</title>
@@ -44,15 +59,20 @@
 
     
   <url>
-    <loc>https://raincollector.github.io/title/16107.html</loc>
-    <lastmod>2018-09-19T10:30:44.454Z</lastmod>
+    <loc>https://raincollector.github.io/title/91c15fd9.html</loc>
+    <lastmod>2019-07-23T21:05:36.637Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2018-08-22T16:51:00.538Z</pubTime>
+        <title>个性化css插件测试</title>
+        <pubTime>2019-07-23T20:38:44.000Z</pubTime>
         
+        <tag>css</tag>
+         
          
            
+             
+              <breadCrumb title="test" url="https://raincollector.github.io/categories/test/"/>
+          
         </display>
     </data>
     </url>
